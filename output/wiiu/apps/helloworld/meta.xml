@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Hello World</name>
+  <coder>brienj</coder>
+  <version>1337</version>
+  <release_date>20160801025133</release_date>
+  <short_description>Hello World</short_description> 
+  <long_description>Hello World built with libcafe</long_description> 
+</app>
